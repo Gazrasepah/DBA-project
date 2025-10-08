@@ -1,9 +1,9 @@
 ---
 
-##  ** Meta Database Administration Project**
+## 🗄️ **3️⃣ Meta Database Administration Project**
 
 ```markdown
-#  Meta Database Administration Project
+# 🗄️ Meta Database Administration Project
 
 ###  Project Overview  
 Part of the **Meta Database Engineer Professional Certificate**, this project simulates real-world **database administration tasks** such as setup, backup, recovery, and performance optimization.
